@@ -1,7 +1,8 @@
 **Augmenting Rockburst Intensity Prediction**
-**Project Overview**
-This project aims to improve the accuracy and reliability of rockburst intensity prediction by training models on a larger and more diverse collection of datasets. The goal is to move beyond the limitations of traditional, smaller datasets and leverage a broader range of geological and operational parameters to create more robust and effective predictive models.
 
+**Project Overview**
+
+This project aims to improve the accuracy and reliability of rockburst intensity prediction by training models on a larger and more diverse collection of datasets. The goal is to move beyond the limitations of traditional, smaller datasets and leverage a broader range of geological and operational parameters to create more robust and effective predictive models.
 Rockbursts are a significant hazard in geotechnical engineering, particularly in deep underground mines and tunnels. Accurate prediction is essential for implementing proactive safety measures. This repository contains the code, data, and analysis related to this research.
 
 **Features**
